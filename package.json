@@ -1,0 +1,24 @@
+{
+  "name": "retail-wpt",
+  "version": "1.0.0",
+  "description": "PepsiCo Retail 360 Web Performance Calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./auditRetailSite.ts"
+  },
+  "author": "Pushpendra Kumar",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^7.15.1",
+    "ts-node": "^10.0.0",
+    "tslint": "^5.12.1",
+    "typescript": "^3.9.10"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "chrome-launcher": "^0.14.0",
+    "lighthouse": "^8.0.0",
+    "puppeteer": "^18.0.5",
+    "save-dev": "^0.0.1-security"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "APP_NAME": [
+        {
+            "pageName": "Welcome",
+            "url": "https://apex:apexloyalty@qa.conectados24h.es/"
+        },
+        {
+            "pageName": "Login",
+            "url": "https://apex:apexloyalty@qa.conectados24h.es/login"
+        },
+        {
+            "pageName": "Register",
+            "url": "https://apex:apexloyalty@qa.conectados24h.es/register"
+        }
+    ]
+}
